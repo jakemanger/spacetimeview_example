@@ -29,3 +29,8 @@ Auto-detected time column: `DateTime`
 ```
 
 See [spacetimeview](https://github.com/jakemanger/spacetimeview) for more more information on how to use `spacetimeview`.
+
+## Fork this repository for your example
+
+If you would like to fork this repository for your example, hit the fork button at the top of this github page and make your modifications.
+![image](https://github.com/user-attachments/assets/80c22450-9777-4e73-ab23-11583b303336)
