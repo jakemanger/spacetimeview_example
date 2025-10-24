@@ -30,7 +30,9 @@ Auto-detected time column: `DateTime`
 
 See [spacetimeview](https://github.com/jakemanger/spacetimeview) for more more information on how to use `spacetimeview`.
 
-## Fork this repository for your example
+## Use this as a template for your spacetimeview plot/dashboard
 
-If you would like to fork this repository for your example, hit the fork button at the top of this github page and make your modifications.
-![image](https://github.com/user-attachments/assets/80c22450-9777-4e73-ab23-11583b303336)
+If you want to use this repository as a template, click the "Use this template" button, then select "Create a new repository" at the top-right of this GitHub page to start customising it.
+
+![image](https://github.com/user-attachments/assets/93a2c6a0-395b-4ba9-9288-0d4c22a9606b)
+
